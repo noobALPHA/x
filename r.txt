@@ -1,0 +1,6 @@
+unicodedata
+telethon
+asyncio
+requests
+telegraph_api
+random
